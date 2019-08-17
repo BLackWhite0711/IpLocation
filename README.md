@@ -1,6 +1,8 @@
 # IpLocation
 
 # Cara Install
+  $ apt-get install perl
+  
   $ apt-get install liblocal-lib-perl
 
   $ apt-get install libjson-perl
