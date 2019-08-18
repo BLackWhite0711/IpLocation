@@ -42,7 +42,7 @@ By: #BLackWhite
 };
  
 print color 'reset';
-@iphost=$ARGV[0] || die "Usage : ./MRND.pl [host] [ip] [domain] \n\nEx:  ./Iplocation.pl  www.google.com \n     ./MRND.pl  216.58.210.206\n \n";
+@iphost=$ARGV[0] || die "Usage : ./MRND.pl [host] [ip] [domain] \n\nEx:  ./MRND.pl  www.google.com \n     ./MRND.pl  216.58.210.206\n \n";
 my @ip = inet_ntoa(scalar gethostbyname("@iphost")or die "IP or Host invalid!\n");
 my @hn = scalar gethostbyaddr(inet_aton(@ip),AF_INET);
  
