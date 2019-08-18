@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# Ip Geolocation 
+# Iplocation 
 #By BLackWhiteTeam
 # Demo : https://www.youtube.com/channel/UCJWgAlqKsytbWqYrYhAPWvw
 #
