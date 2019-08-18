@@ -36,7 +36,7 @@ print q{
 	           ~~~~~~~~  ~~~~~~~  ~~ ~~~~~~~ ~~~~~~
 
 Ip Geolocation Tool  
-By: #Ben (TSB)
+By: #BLackWhite
 
 ------------------------------------
 };
