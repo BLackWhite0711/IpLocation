@@ -1,6 +1,6 @@
 # IpLocation
 
-# Masih Tahap Pengembang 
+# Masih Tahap Pengembangan
 # Cara Install
   $ apt-get install perl
   
